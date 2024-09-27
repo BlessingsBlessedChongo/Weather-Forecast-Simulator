@@ -1,0 +1,3 @@
+﻿  WeatherForeCastSimulator.cpp
+C:\Users\User\Documents\Study_Trip\WeatherForeCastSimulator\WeatherForeCastSimulator\WeatherForeCastSimulator.cpp(43,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  WeatherForeCastSimulator.vcxproj -> C:\Users\User\Documents\Study_Trip\WeatherForeCastSimulator\x64\Debug\WeatherForeCastSimulator.exe
